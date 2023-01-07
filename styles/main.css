@@ -10071,6 +10071,10 @@ body {
     font-size: 25px;
 }
 
+.groom_call a {
+   text-decoration-line: none;
+}
+
 .bride_call {
     text-align: center;
     font-family: 'rose';
